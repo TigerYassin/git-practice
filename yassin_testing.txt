@@ -1,8 +1,5 @@
 deepak
 this is a test
 arsh
-<<<<<<< HEAD
 This is Shubh
-=======
 erika hacked this hahahah
->>>>>>> 40fb0f24d576a48c4c7182de4729114c2afce2f7
